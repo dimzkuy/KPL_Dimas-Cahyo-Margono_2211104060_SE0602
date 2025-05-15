@@ -1,6 +1,5 @@
 # Observer Pattern dengan Fitur Unsubscribe Otomatis
-
-# Dimas Cahyo Margono - 2211104060 - SE-06-02
+Dimas Cahyo Margono - 2211104060 - SE-06-02
 
 ## Deskripsi
 
