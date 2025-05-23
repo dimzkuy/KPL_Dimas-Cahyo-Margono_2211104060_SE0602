@@ -7,7 +7,7 @@ NIM: 2211104060
 
 ## Deskripsi Singkat
 
-Refactoring kode permainan berbasis state-machine menggunakan standar Node.js, dengan pemisahan kode menjadi modular.
+Refactoring kode permainan berbasis state-machine menggunakan standar Node.js, dengan pemisahan kode menjadi modular (Refactor Tugas Modul 4 UNGUIDED).
 
 ## Perubahan yang Dilakukan
 
